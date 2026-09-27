@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Lynn!
 
-<!--
-**lyn0509/lyn0509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Terminale générale
+💻 Spécialités : NSI & Mathématiques
+🚀 Future ingénieure en informatique
 
-Here are some ideas to get you started:
+🌱 Currently learning
+- Python
+- HTML
+- Java Script
+- CSS
+- Algorithmique
+- Programmation orientée objet (POO)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔨 Projects
+
+🚧 Projects coming soon...
+
+🎯 Goals
+
+Continuer à apprendre la programmation, développer des projets personnels et construire progressivement mon portfolio informatique.
